@@ -1,0 +1,14 @@
+.right{
+    width: 25%;
+    height: 100%;
+    /* background-color: rgb(233, 229, 229); */
+   
+  
+}
+.fixed__right{
+    position: fixed;
+    margin-top: 7rem;
+    /* background-color: rgb(233, 229, 229); */
+    width: 25%;
+    height: 100%;
+}

@@ -1,0 +1,31 @@
+.story__img{
+   width: 100%;
+}  
+.img__wrapper{
+    position: relative;
+}
+
+.story__name{
+    color: #fff;
+    font-weight: 400;
+    position: absolute;
+    top: 80%;
+    left: 30%;
+}
+
+.profile__img__story{
+    position: absolute;
+}
+.story__profile{
+    position: absolute;
+    left: 7%;
+    top: 7%;
+    width: 4rem;
+    height: 4rem;
+    border-radius: 50%;
+    border: 5px solid rgba(10, 65, 218, 0.842);
+}
+.text__color{
+    color: black;
+}
+

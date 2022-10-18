@@ -1,0 +1,58 @@
+.upload{
+    height: 20rem;
+    background-color: rgba(233, 229, 229, 0.966);
+}
+.container__upload{
+    width: 77%;
+    margin-right: 6.4rem;
+    /* border-bottom: 1px solid rgb(190, 185, 185); */
+    height: 100%;
+}
+.container__main{
+    width: 77%;
+    margin-right: 6.4rem;
+    height: 100%;
+}
+.container__upload h1{
+   margin-top: 2.6rem;
+}
+.upload__profile{
+    width: 4.4rem;
+    height: 4.4rem;
+    border-radius: 50%;
+    margin: 2rem 1rem 0 2rem;
+}
+.arrow{
+    transform: rotate(90deg);
+    margin-left: 1rem;
+}
+.post__input{
+    border: none;
+    outline: none;
+    width: 70%;
+    background-color: rgba(233, 229, 229, 0.966);
+    margin-top: 3rem;
+}
+.upload__icons{
+    height: 30%;
+    width: 100%;
+    border-top: 1px solid rgb(190, 185, 185);
+    /* color: rgb(226, 180, 29); */
+}
+.live{
+    
+}
+.camera{
+  position: relative;
+}
+.icon{
+    font-size: 3.4rem;
+}
+.icon2{
+    font-size: 2.5rem;
+}
+.plus{
+    position: absolute;
+    top: 35%;
+    left: 8%;
+}

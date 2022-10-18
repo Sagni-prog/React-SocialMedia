@@ -1,0 +1,45 @@
+
+.bg__light{
+    background-color: rgba(233, 229, 229, 0.966);
+}
+.bg__dark{
+    background-color: rgba(20, 19, 19, 0.904);
+}
+.color{
+    color: #fff;
+}
+.black{
+    color: black;
+}
+.center{
+    width: 90%;
+    margin: 0 auto;
+}
+
+.see__more{
+    transform: rotate(90deg);
+    font-size: 1.6rem;
+}
+.post__profile{
+    width: 4.6rem;
+    height: 4.6rem;
+    border-radius: 50%;
+}
+.post__profile__footer{
+    width: 3rem;
+    height: 3rem;
+    border-radius: 50%;
+}
+.post__icon{
+    font-size: 2.2rem;
+    color: rgb(65, 60, 60);
+}
+.arrow__post{
+    font-size: 1.5rem;
+    transform: rotate(90deg);
+}
+
+.line__height{
+    line-height: 1.5;
+}
+

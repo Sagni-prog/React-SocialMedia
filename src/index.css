@@ -1,0 +1,239 @@
+
+/* --primary__blue__color: #0a53f1  */
+/* bg__gray: #ccd1d3fa */
+/* bg__white: #ffffffea */
+
+*{
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  /* color: rgb(56, 52, 52); */
+
+}
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #ccd1d3fa; 
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+ 
+}
+html{
+  font-size: 10px;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.container{
+  width: 90vw;
+  margin: 0 auto;
+  color: rgb(56, 52, 52);
+ 
+}
+.h__100{
+  height: 100vh;
+}
+.w__100{
+  width: 100vw;
+}
+
+.flex{
+  display: flex;
+}
+.align__start{
+  align-items: flex-start;
+}
+.align__end{
+  align-items: flex-end;
+}
+.align__center{
+  align-items: center;
+}
+.justify__center{
+  justify-content: center;
+}
+.justify__between{
+  justify-content: space-between;
+}
+.justify__around{
+  justify-content: space-around;
+}
+.justify__start{
+  justify-content: start;
+}
+.flex__gap__1{
+  gap: 1rem;
+}
+.flex__gap__2{
+  gap: 2rem;
+}
+.flex__gap__3{
+  gap: 3rem;
+}
+.flex__gap__4{
+  gap: 4rem;
+}
+.flex__gap__5{
+  gap: 5rem;
+}
+.flex__gap__6{
+  gap: 6rem;
+}
+.flex__gap__7{
+  gap: 7rem;
+}
+
+.flex__gap__large{
+  gap: 12.8rem;
+}
+.flex__gap__big{
+  gap: 9.6rem;
+}
+.flex__gap__mid{
+ gap: 6.4rem;
+}
+.flex__gap__small{
+  gap: 3.2rem;
+}
+.flex__col{
+  flex-direction: column;
+}
+
+.font__primary{
+  font-size: 6.2rem;
+}
+.font__secondry{
+  font-size: 5.2rem;
+}
+.font__tertiary{
+  font-size: 3.2rem;
+}
+.font__subheading{
+  font-size: 1.8rem;
+}
+.font__small{
+  font-size: 1.6rem;
+}
+.font__tiny{
+  font-size: 1.4rem;
+}
+.font__15{
+  font-size: 1.5rem;
+}
+.font__tiny__winny{
+  font-size: 1.2rem;
+}
+.font__weight{
+  font-weight: 700;
+}
+.font__weight__700{
+  font-weight: 700;
+}
+.font__weight__600{
+  font-weight: 600;
+}
+.font__weight__500{
+  font-weight: 500;
+}
+.font__weight__400{
+  font-weight: 400;
+}
+.font__weight__300{
+  font-weight: 300;
+}
+.font__weight__200{
+  font-weight: 200;
+}
+.m__bottom__mid{
+   margin-bottom: 9.6rem;
+}
+.m__bottom__large{
+   margin-bottom: 12.8rem;
+}
+.m__bottom__small{
+   margin-bottom: 3.2rem;
+}
+.m__bottom__1{
+  margin-bottom: 1rem;
+}
+.m__bottom__2{
+ margin-bottom: 2rem;
+}
+.m__bottom__3{
+  margin-bottom: 3rem;
+}
+.m__bottom__4{
+  margin-bottom: 4rem;
+}
+.m__bottom__5{
+  margin-bottom: 5rem;
+}
+.m__bottom__6{
+  margin-bottom: 6rem;
+}
+.m__bottom__7{
+  margin-bottom: 7rem;
+}
+.grid{
+  display: grid;
+}
+.grid__col__5{
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+}
+.grid__col__4{
+  grid-template-columns: repeat(4,fr);
+}
+.grid__col__3{
+  grid-template-columns: repeat(3,fr);
+}
+.grid__col__gap__1{
+  column-gap: 1rem;
+}
+.grid__col__gap__2{
+  column-gap: 2rem;
+}
+.grid__col__gap__3{
+  column-gap: 3rem;
+}
+.grid__col__gap__4{
+  column-gap: 4rem;
+}
+.inline__block{
+  display: inline-block;
+}
+.m__top__small{
+  margin-top: 0.5rem;
+}
+
+.m__top__mid{
+  margin-top: 1.6rem;
+}
+.m__top__1{
+  margin-top: 1rem;
+}
+.m__top__2{
+  margin-top: 2rem;
+}
+.m__top__3{
+  margin-top: 3rem;
+}
+.m__top__4{
+  margin-top: 4rem;
+}
+
+.border__rad__8{
+  border-radius: 8px;
+}
+.shadow__normal{
+  box-shadow: 0 1px 10px rgba(0,0,0,0.1);
+}
+.link__color{
+  color: rgb(11, 155, 212);
+}
+
+.cursor__pointer{
+  cursor: pointer;
+}

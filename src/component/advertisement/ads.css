@@ -1,0 +1,10 @@
+.ads{
+    /* margin: 0 1.6rem; */
+    margin: 0 1.6rem;
+    height: 33%;
+    /* width: 100%; */
+}
+
+.ads__image{
+    transform: scale(1);
+}

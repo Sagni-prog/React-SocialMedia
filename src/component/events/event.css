@@ -1,0 +1,39 @@
+.event{
+    
+    height: 30%;
+    /* width: 100%; */
+}
+.margin{
+    margin: 0 1.6rem ;
+}
+.top__box{
+    background-color: #fff;
+}
+.bottom__box{
+    background-color: rgb(12, 63, 233);
+}
+.box{
+    width: 5.4rem;
+    border-radius: 8px;
+}
+.top__box{
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    height: 3.2rem;
+}
+.bottom__box{
+    height: 2.6rem;
+    color: #fff;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+}
+.flex__gap{
+    gap: 0.33rem;
+}
+.location__icon{
+    font-size: 1.4rem;
+}
+
+.color__dark{
+    background-color: rgb(51, 49, 49);
+}
